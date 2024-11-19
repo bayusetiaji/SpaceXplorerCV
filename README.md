@@ -8,3 +8,7 @@ Dependencies:
 - Sound
 - Video
 - OpenCV
+
+Todo list:
+- Add enemies and obstacles
+- Add scoring
